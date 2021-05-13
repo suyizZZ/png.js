@@ -1,3 +1,6 @@
+fork arian png.js
+
+https://github.com/arian/pngjs
 
 PNG.js
 ======
